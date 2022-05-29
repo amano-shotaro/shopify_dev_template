@@ -1,9 +1,0 @@
-REACT_APP_SHOPIFY_API_KEY="b2cbe923036469d7d974d46e4dae40d3"
-REACT_APP_SCOPES="read_products,write_products,read_product_listings"
-REACT_APP_APPLICATION_URL=https://d13ikct5niu115.cloudfront.net
-REACT_APP_PUBLIC_API_URL=https://YOUR_API.execute-api.ap-northeast-1.amazonaws.com/dev/api/public
-REACT_APP_PRIVATE_API_URL=https://YOUR_API.execute-api.ap-northeast-1.amazonaws.com/dev/api/private
-REACT_APP_COGNITO_REGION="ap-northeast-1"
-REACT_APP_COGNITO_USERPOOLID="ap-northeast-1_wAFmpkJI5"
-REACT_APP_COGNITO_CLIENTID="1e2vr88p2dmji8g78akhuq0rd3"
-REACT_APP_COGNITO_IDENTITYPOOLID="a4e0fa5a-5818-459e-86ff-fb754ad02579"
