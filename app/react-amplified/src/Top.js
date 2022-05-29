@@ -87,9 +87,9 @@ class Top extends React.Component{
 
   async componentDidMount() {
     // TODO: ログイン画面の作成（signup -> confirmation -> login を一旦代替）
-    // const res = await cognito.signUp('your-email@mail.com', 'P@ssw0rd1234567890')
+    const res = await cognito.signUp('amano.shotaro@fujitsu.com', 'P@ssw0rd1234567890')
     // const res = await cognito.confirmation('your-email@mail.com',"123456")
-    const res = await cognito.login('your-email@mail.com', 'P@ssw0rd1234567890')
+    // const res = await cognito.login('your-email@mail.com', 'P@ssw0rd1234567890')
     /**
      *  Step 4: Making authenticated requests
      *  4-1. 永続化した access_token,scope を取得
